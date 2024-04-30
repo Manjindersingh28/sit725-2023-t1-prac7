@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "test": "mocha --reporter spec"
-   },
+  },
   "repository": {
     "type": "git",
     "url": "git https://github.com/Manjindersingh28/sit725-2024-t1-prac3.git"
